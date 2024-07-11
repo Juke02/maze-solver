@@ -2,6 +2,7 @@
   "name": "maze-solver",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://juke02.github.io/maze-solver/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
