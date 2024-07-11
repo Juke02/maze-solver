@@ -1,0 +1,51 @@
+.maze-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .maze-info {
+    margin-bottom: 20px;
+  }
+  
+  .arrays-container {
+    margin-bottom: 20px;
+    max-width: 800px;
+    text-align: left;
+  }
+  
+  .row {
+    display: flex;
+  }
+  
+  .cell {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #ccc;
+    cursor: pointer; /* Add pointer cursor to indicate clickable cells */
+  }
+  
+  .wall {
+    background-color: black;
+  }
+  
+  .start {
+    background-color: green;
+  }
+  
+  .end {
+    background-color: red;
+  }
+  
+  .current {
+    background-color: blue;
+  }
+  
+  .reached-end {
+    background-color: yellow;
+  }
+  
+  button {
+    margin-bottom: 20px;
+  }
+  
