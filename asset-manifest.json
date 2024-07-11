@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Juke02/maze-solver/static/css/main.60601fb3.css",
-    "main.js": "/Juke02/maze-solver/static/js/main.0708fadc.js",
-    "static/js/453.ef976525.chunk.js": "/Juke02/maze-solver/static/js/453.ef976525.chunk.js",
-    "index.html": "/Juke02/maze-solver/index.html",
-    "main.60601fb3.css.map": "/Juke02/maze-solver/static/css/main.60601fb3.css.map",
-    "main.0708fadc.js.map": "/Juke02/maze-solver/static/js/main.0708fadc.js.map",
-    "453.ef976525.chunk.js.map": "/Juke02/maze-solver/static/js/453.ef976525.chunk.js.map"
+    "main.css": "/maze-solver/static/css/main.60601fb3.css",
+    "main.js": "/maze-solver/static/js/main.273cd4de.js",
+    "static/js/453.ef976525.chunk.js": "/maze-solver/static/js/453.ef976525.chunk.js",
+    "index.html": "/maze-solver/index.html",
+    "main.60601fb3.css.map": "/maze-solver/static/css/main.60601fb3.css.map",
+    "main.273cd4de.js.map": "/maze-solver/static/js/main.273cd4de.js.map",
+    "453.ef976525.chunk.js.map": "/maze-solver/static/js/453.ef976525.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60601fb3.css",
-    "static/js/main.0708fadc.js"
+    "static/js/main.273cd4de.js"
   ]
 }
